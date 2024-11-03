@@ -52,6 +52,9 @@ Data Nerds! This repo contains all the Excel files needed to follow along my fre
 - Power Pivot DAX
 - Power Pivot Data Models
 
+## Having any problems or challenges?
+## WhatsApp - +254706692055
+
 ## Found a Typo? Want to Contribute?
 - If you find an error in this repo, please feel free to make a pull request by:
     - Forking the repo
