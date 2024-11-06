@@ -68,7 +68,9 @@ Data Nerds! This repo contains all the Excel files needed to follow along with m
 
 ## Having any problems or challenges?
 - WhatsApp: +254706692055
+-         : +254713690623
 - Email: amos.muendo.munyilu@gmail.com
+       : manu.mwanzaa@gmail.com
 
 ## Found a Typo? Want to Contribute?
 - If you find an error in this repo, please feel free to make a pull request by:
