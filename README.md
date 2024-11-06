@@ -67,10 +67,10 @@ Data Nerds! This repo contains all the Excel files needed to follow along with m
 - Introduction to DAX (SUM, COUNT) and Advanced DAX (CALCULATE, FILTER)
 
 ## Having any problems or challenges?
-- WhatsApp: +254706692055
--         : +254713690623
-- Email: amos.muendo.munyilu@gmail.com
-       : manu.mwanzaa@gmail.com
+- **<span style="color:blue; font-size:18px;">WhatsApp: +254706692055</span>**
+- **<span style="color:blue; font-size:18px;">WhatsApp: +254713690623</span>**
+- **<span style="color:blue; font-size:18px;">Email: amos.muendo.munyilu@gmail.com</span>**
+- **<span style="color:blue; font-size:18px;">Email: manu.mwanzaa@gmail.com</span>**
 
 ## Found a Typo? Want to Contribute?
 - If you find an error in this repo, please feel free to make a pull request by:
